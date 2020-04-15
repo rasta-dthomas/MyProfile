@@ -8,8 +8,8 @@ function App() {
   return (
     <div className="App" style={{backgroundImage: `url(${image})`}}>
       <div className="App-content">
-        <h1>My Professional Page</h1>
-        <p>Systems/Software Engineer/Full Stack Developer for hire.</p>
+        <h1 className="text-color">My Professional Page</h1>
+        <p className="p-color">Systems/Software Engineer/Full Stack Developer for hire.</p>
       </div>
     </div>
   );
