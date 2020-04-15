@@ -1,6 +1,6 @@
 import React from 'react';
-import desktopImage from './Component/public/image/prsnlOfc-desktop.jpg';
-import mobileImage from './Component/public/image/prsnlOfc-desktop.jpg';
+import desktopImage from 'C:/Users/Mashona/MyProfile/my-profile-page/src/Components/public/image/prsnlOfc-desktop.jpg';
+import mobileImage from 'C:/Users/Mashona/MyProfile/my-profile-page/src/Components/public/image/prsnlOfc-desktop.jpg';
 import './App.css';
 
 function App() {
