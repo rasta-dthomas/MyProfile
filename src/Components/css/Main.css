@@ -1,0 +1,111 @@
+.container-1 {
+    padding-left: 30px;
+}
+
+#contactimg {
+    border-style: none;
+    background-color: #f1f1f1;
+    border-radius: 8px;
+}
+
+container-1 > a {
+    padding-left: 5px;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.header{
+    background: url("C:/Users/Mashona/MyProfile/my-profile-page/src/Components/public/image/computer-336628.jpg") center center fixed;
+    color: #FFF;
+    height: 100vh;
+    position: relative;
+    background-size: cover;
+/*     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -msn-background-size: cover; */
+}
+
+.navbar {
+    background-color: rgb(255, 246, 246);
+    border-radius: 15px;
+    border-style: hidden;
+    padding: 18px;
+    text-align: center;
+    width: auto;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.navbar a {
+    color: rgb(27, 22, 22);
+    text-decoration: none;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background-color: 7c7e80;
+    border-radius: 5px;
+    border-style: hidden;
+    color: rgb(255, 254, 253);
+}
+
+span:hover {
+    text-decoration: none;
+    transform: scale(1.5);
+}
+
+/*=========================================*/
+/* 
+.header{
+    background: url("http://a.top4top.net/p_397znzmu1.png") center center fixed;
+    color: #FFF;
+    height: 100vh;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -msn-background-size: cover;
+}
+.header .overlay{
+    background: rgba(0, 0, 0, 0.58);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0; 
+}
+
+
+.header .navbar-default {
+	background-color:transparent !important;
+	border-color:transparent;
+	background-image:none;
+	box-shadow:none;	
+}
+.header .navbar-default .navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+    color: #FFF;
+}
+
+.header .navbar-default .navbar-nav>li>a {
+   font-size:20px; 
+   color:#fff; 
+    border-bottom: 1px solid transparent
+}
+.header .navbar-default .navbar-nav>li:hover a{
+    color: #333;
+     border-bottom: 1px solid #FFF
+}
+
+
+.header .navbar-toggle {
+      margin:10px 0; 
+      background:#36C; 
+      color:#FFF;
+} */

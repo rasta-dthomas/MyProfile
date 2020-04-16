@@ -2,7 +2,10 @@
   height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: center;
+  /* image-rendering: auto; */
+  image-rendering: crisp-edges;
+  /* image-rendering: pixelated; */
 }
 
 .App-content {
@@ -30,6 +33,7 @@
 }
 
 .p-color {
-  color: white;
+  color: #136aec;
+  font-weight: bolder;
 }
 
