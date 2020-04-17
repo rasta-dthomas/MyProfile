@@ -7,6 +7,7 @@ class Navbar extends Component {
             <section className="header">
                 <nav className="navbar">
                     <a href="#home"><i className="fa fa-fw fa-home"></i>Home</a>
+                    <a href="project">Projects</a>
                     <a href="#container-about"><i className="fa fa-fw fa-user"></i>About</a>
                     <a href="#skillheader"><i className="fa fa-fw fa-xing"></i>Skills</a>
                     <a href="#portfolio"><i className="fa fa-fw fa-github-alt"></i>Portfolio</a>
