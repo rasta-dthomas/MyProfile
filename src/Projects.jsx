@@ -6,7 +6,7 @@ import Contact from 'C:/Users/Mashona/MyProfile/my-profile-page/src/Components/C
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
-class Project extends Component {
+class Projects extends Component {
   render() {
 
     const image = window.innerWidth >= 650 ? desktopImage : mobileImage;

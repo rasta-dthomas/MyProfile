@@ -50,13 +50,31 @@ container-1 > a {
     background-color: 7c7e80;
     border-radius: 5px;
     border-style: hidden;
-    color: rgb(255, 254, 253);
+    color: rgb(209, 16, 16);
 }
 
 span:hover {
     text-decoration: none;
     transform: scale(1.5);
 }
+
+/* Home page css added 05/05 */
+
+.Home .lander {
+    padding: 80px 0;
+    text-align: center;
+  }
+  
+.Home .lander h1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+  
+.Home .lander p {
+    color: #999;
+}
+
+/* Home page css added 05/05 */
 
 /*=========================================*/
 /* 
